@@ -15,7 +15,7 @@ Measure hospital performance metrics
 Understand demographic distributions
 Generate actionable healthcare insights
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 PostgreSQL
 SQL
 Window Functions
