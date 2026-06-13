@@ -16,13 +16,21 @@ Understand demographic distributions
 Generate actionable healthcare insights
 
 🛠️ Tools & Technologies:
+
 PostgreSQL
+
 SQL
+
 Window Functions
+
 Common Table Expressions (CTEs)
+
 Views
+
 Aggregate Functions
+
 Date Functions
+
 
 📂 Dataset Features
 
