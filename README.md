@@ -1,4 +1,5 @@
 🏥 Healthcare Data Analytics using SQL
+
 📌 Project Overview
 
 This project focuses on analyzing healthcare patient records using PostgreSQL to derive meaningful insights related to patient admissions, discharges, hospital stay duration, demographics, and treatment outcomes.
@@ -13,6 +14,7 @@ Analyze patient discharge trends
 Measure hospital performance metrics
 Understand demographic distributions
 Generate actionable healthcare insights
+
 🛠️ Tools & Technologies
 PostgreSQL
 SQL
