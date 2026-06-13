@@ -21,6 +21,7 @@ Common Table Expressions (CTEs)
 Views
 Aggregate Functions
 Date Functions
+
 📂 Dataset Features
 
 The dataset includes:
@@ -39,6 +40,7 @@ Diabetes, Hypertension, CAD, CKD Indicators
 Laboratory Parameters
 Cardiac Conditions
 Clinical Diagnoses
+
 🧹 Data Cleaning Process
 Duplicate Removal
 
@@ -59,6 +61,7 @@ ROW_NUMBER() OVER(
 PARTITION BY "MRD No.","D.O.A","D.O.D"
 ORDER BY "MRD No."
 )
+
 📊 Business Questions Solved
 Hospital Performance Metrics
 Total Discharges
@@ -72,6 +75,7 @@ Senior Citizen
 Discharges by Gender
 Time-Based Analysis
 Distribution of Discharges by Day of Week
+
 📈 Key Insights Generated
 
 ✔ Hospital discharge performance
@@ -116,6 +120,7 @@ KPI development
 Business-oriented reporting
 PostgreSQL query optimization
 Real-world analytical problem solving
+
 👨‍💻 Author
 
 Karthik Thakkalapelly
